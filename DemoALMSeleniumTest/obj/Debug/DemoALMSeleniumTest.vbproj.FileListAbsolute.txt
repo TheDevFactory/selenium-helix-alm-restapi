@@ -1,0 +1,47 @@
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.dll
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.pdb
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.xml
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.dll
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.xml
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbprojResolveAssemblyReference.cache
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.Resources.resources
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbproj.GenerateResource.Cache
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.dll
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.xml
+c:\users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.pdb
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Equip.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\NuGet.Core.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Selenium.WebDriver.Equip.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Equip.pdb
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Selenium.WebDriver.Equip.pdb
+C:\Users\nkruger\documents\visual studio 2017\Projects\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.pdb
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\DemoALMSeleniumTest.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Equip.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\NuGet.Core.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Selenium.WebDriver.Equip.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.Support.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Equip.pdb
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\Selenium.WebDriver.Equip.pdb
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\WebDriver.Support.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbprojResolveAssemblyReference.cache
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.Resources.resources
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbproj.GenerateResource.Cache
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.pdb
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\RestSharp.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\System.ValueTuple.dll
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\bin\Debug\System.ValueTuple.xml
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbproj.CoreCompileInputs.cache
+C:\SEAP_Data\PERF_Documents\Webinar\Webinar Quality, Not Compromise. Best Practices for Auto Testing\DemoALMSeleniumTest\DemoALMSeleniumTest\obj\Debug\DemoALMSeleniumTest.vbproj.CopyComplete
